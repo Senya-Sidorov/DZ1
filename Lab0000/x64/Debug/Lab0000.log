@@ -1,0 +1,4 @@
+﻿  Lab0000_4.c
+C:\бИПТ-252\sidorov\Lab0000\Lab0000_4.c(15,10): warning C4098: name: функция типа "void", возвращающая значение
+C:\бИПТ-252\sidorov\Lab0000\Lab0000_4.c(29,10): warning C4098: date: функция типа "void", возвращающая значение
+  Lab0000.vcxproj -> C:\бИПТ-252\sidorov\Lab0\x64\Debug\Lab0000.exe
